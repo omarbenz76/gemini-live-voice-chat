@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Gemini Voice Chat</string>
+    <string name="title_activity_main">Gemini Voice Chat</string>
+    <string name="package_name">com.omarben.geminichat</string>
+    <string name="custom_url_scheme">com.omarben.geminichat</string>
+</resources>

@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@capacitor/android": "^8.1.0",
+    "@capacitor/cli": "^8.1.0",
+    "@capacitor/core": "^8.1.0",
     "@google/genai": "^1.41.0",
     "expo": "^54.0.33",
     "expo-build-properties": "^1.0.10",

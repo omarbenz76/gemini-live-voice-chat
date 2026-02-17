@@ -1,0 +1,13 @@
+{
+  "appId": "com.omarben.geminichat",
+  "appName": "Gemini Voice Chat",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
